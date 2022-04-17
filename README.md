@@ -1,2 +1,1 @@
-### . C - printf
-
+### printf string formats in c 
